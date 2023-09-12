@@ -1,4 +1,4 @@
-table 50110 Friends
+table 50110 "FriendsArash"
 {
     DataClassification = CustomerContent;
     Caption = 'Friends';
