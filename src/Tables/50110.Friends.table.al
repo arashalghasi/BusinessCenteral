@@ -31,6 +31,17 @@ table 50110 "FriendsArash"
             DataClassification = CustomerContent;
             caption = 'Birth date';
         }
+        field(40; Cap; Code[5])
+        {
+            DataClassification = CustomerContent;
+            caption = 'Cap';
+            //TableRelation = CapArash.Cap;
+        }
+        field(50; Role; Text[50])
+        {
+            DataClassification = CustomerContent;
+            caption = 'Role';
+        }
     }
 
     keys
@@ -40,28 +51,4 @@ table 50110 "FriendsArash"
             Clustered = true;
         }
     }
-
-    var
-        myInt: Integer;
-
-    trigger OnInsert()
-    begin
-
-    end;
-
-    trigger OnModify()
-    begin
-
-    end;
-
-    trigger OnDelete()
-    begin
-
-    end;
-
-    trigger OnRename()
-    begin
-
-    end;
-
 }

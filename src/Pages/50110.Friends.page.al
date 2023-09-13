@@ -19,21 +19,32 @@ page 50110 FriendsArashList
                     ToolTip = 'Primary Key';
 
                 }
-                field("Name"; rec."Name")
+                field("Name"; rec.Name)
                 {
                     ApplicationArea = All;
                     ToolTip = 'Name';
                 }
-                field("Surename"; rec."Surname")
+                field("Surename"; rec.Surname)
                 {
                     ApplicationArea = All;
                     ToolTip = 'Surename';
                 }
 
-                field("Birthday"; rec."Birthday")
+                field("Birthday"; rec.Birthday)
                 {
                     ApplicationArea = All;
                     ToolTip = 'Birthday';
+                }
+                field("Cap"; rec.Cap)
+                {
+                    ApplicationArea = All;
+                    ToolTip = 'Birthday';
+                }
+
+                field("Role"; rec.Role)
+                {
+                    ApplicationArea = All;
+                    ToolTip = 'Role';
                 }
             }
         }

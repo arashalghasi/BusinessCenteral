@@ -1,8 +1,8 @@
-// tableextension 50111 FriendsExtension extends FriendsArash
+// tableextension 50111 FriendsArashExtension extends FriendsArash
 // {
 //     fields
 //     {
-//         field(52100; Role; Text[50])
+//         field(52110; Role; Text[50])
 //         {
 //             DataClassification = CustomerContent;
 //             Caption = 'Role';

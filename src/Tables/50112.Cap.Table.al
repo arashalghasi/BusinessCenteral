@@ -27,7 +27,10 @@ table 50112 CapArash
 
     trigger OnInsert()
     begin
-        Message('THe data Inserted');
+        if (StrLen(rec.Cap) <> 5) then
+            Message('Cap must be 5 chars long');
+        if (StrLen(rec.Cap) <> 5) then
+            Error('Cap must be 5 chars long');
     end;
 
 }
