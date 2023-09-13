@@ -2,7 +2,6 @@ page 50112 "Arash cool Friends Card"
 {
     PageType = Card;
     ApplicationArea = All;
-    //UsageCategory = Administration;
     SourceTable = FriendsArash;
     Caption = 'Arash cool Friends Card';
 

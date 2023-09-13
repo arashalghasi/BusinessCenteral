@@ -1,7 +1,7 @@
 table 50110 "FriendsArash"
 {
     DataClassification = CustomerContent;
-    Caption = 'Friends';
+    Caption = 'FriendsArash';
     Description = 'Tabella di prova per accademy';
 
     fields
