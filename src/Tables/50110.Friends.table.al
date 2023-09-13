@@ -35,7 +35,7 @@ table 50110 "FriendsArash"
         {
             DataClassification = CustomerContent;
             caption = 'Cap';
-            //TableRelation = CapArash.Cap;
+            TableRelation = CapArash.Cap;
         }
         field(50; Role; Text[50])
         {

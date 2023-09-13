@@ -10,7 +10,13 @@ table 50112 CapArash
             DataClassification = ToBeClassified;
             Caption = 'Cap';
         }
-        field(10; City; Text[100])
+        field(10; Region; Code[5])
+        {
+            DataClassification = ToBeClassified;
+            Caption = 'Region';
+            TableRelation = RegionsArash.Code;
+        }
+        field(20; City; Text[100])
         {
             DataClassification = ToBeClassified;
             Caption = 'City';

@@ -5,7 +5,7 @@ page 50111 CapListArash
     UsageCategory = Lists;
     Caption = 'Cap List Arash';
     SourceTable = CapArash;
-
+    CardPageId = "Cap List Arash";
     layout
     {
         area(Content)
@@ -16,6 +16,13 @@ page 50111 CapListArash
                 {
                     ApplicationArea = All;
                     Caption = 'Cap';
+
+                }
+
+                field(Region; rec.Region)
+                {
+                    ApplicationArea = All;
+                    Caption = 'Region';
 
                 }
 

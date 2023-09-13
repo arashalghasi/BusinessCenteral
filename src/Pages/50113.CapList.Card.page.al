@@ -11,13 +11,19 @@ page 50113 "Cap List Arash"
         {
             group(GroupName)
             {
-                field(Cap; rec.Cap)
+                field("Cap"; rec.Cap)
                 {
                     ApplicationArea = All;
                     Caption = 'Cap';
 
                 }
-                field(City; rec.City)
+                field("Region"; rec.Region)
+                {
+                    ApplicationArea = All;
+                    Caption = 'Region';
+
+                }
+                field("City"; rec.City)
                 {
                     ApplicationArea = All;
                     Caption = 'city';
