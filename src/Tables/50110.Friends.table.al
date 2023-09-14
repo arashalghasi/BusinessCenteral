@@ -55,6 +55,12 @@ table 50110 "FriendsArash"
             caption = 'DataFilter';
             FieldClass = FlowFilter;
         }
+
+        field(80; Season; enum SeasonArash)
+        {
+            caption = 'Season';
+            FieldClass = FlowFilter;
+        }
     }
 
     keys

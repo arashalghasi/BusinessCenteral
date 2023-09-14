@@ -50,6 +50,7 @@ page 50110 FriendsArashList
                 {
                     ApplicationArea = All;
                     ToolTip = 'Balance';
+                    DrillDownPageId = BankTransactionCardArash;
                 }
             }
         }

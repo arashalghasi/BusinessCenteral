@@ -8,6 +8,7 @@ table 50113 BankTransactionTableArash
         field(1; ID; BigInteger)
         {
             Caption = 'ID';
+            //AutoIncrement = true;
         }
         field(10; Date; date)
         {
