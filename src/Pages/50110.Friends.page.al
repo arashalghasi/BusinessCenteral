@@ -46,6 +46,11 @@ page 50110 FriendsArashList
                     ApplicationArea = All;
                     ToolTip = 'Role';
                 }
+                field("Balance"; rec.Balance)
+                {
+                    ApplicationArea = All;
+                    ToolTip = 'Balance';
+                }
             }
         }
     }

@@ -29,12 +29,7 @@ page 50117 BankTransactionCardArash
                 field(Sender; rec.Sender)
                 {
                     ApplicationArea = All;
-                    Caption = 'Sender';
-                }
-                field(Reciever; rec.Reciever)
-                {
-                    ApplicationArea = All;
-                    Caption = 'Reciever';
+                    Caption = 'The subject of the transaction';
                 }
             }
         }

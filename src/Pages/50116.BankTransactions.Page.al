@@ -5,7 +5,7 @@ page 50116 BankTransactionsPageArash
     UsageCategory = Lists;
     SourceTable = BankTransactionTableArash;
     CardPageId = BankTransactionCardArash;
-    Caption = 'Bank Transactions Page Arash';
+    Caption = 'Bank Transactions List Arash';
     layout
     {
         area(Content)
@@ -30,12 +30,7 @@ page 50116 BankTransactionsPageArash
                 field(Sender; rec.Sender)
                 {
                     ApplicationArea = All;
-                    Caption = 'Sender';
-                }
-                field(Reciever; rec.Reciever)
-                {
-                    ApplicationArea = All;
-                    Caption = 'Reciever';
+                    Caption = 'The subject of the transaction';
                 }
             }
         }

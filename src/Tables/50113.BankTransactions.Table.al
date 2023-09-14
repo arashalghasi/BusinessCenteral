@@ -22,7 +22,7 @@ table 50113 BankTransactionTableArash
         field(30; Sender; Text[250])
         {
             DataClassification = ToBeClassified;
-            Caption = 'Sender';
+            Caption = 'The subject of the transaction';
             TableRelation = FriendsArash."No.";
         }
         field(40; Reciever; Text[250])

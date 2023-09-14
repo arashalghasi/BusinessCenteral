@@ -42,6 +42,19 @@ table 50110 "FriendsArash"
             DataClassification = CustomerContent;
             caption = 'Role';
         }
+        field(60; Balance; Decimal)
+        {
+            caption = 'Balance';
+            FieldClass = FlowField;
+            CalcFormula = sum(BankTransactionTableArash.Amount where(Sender = field("No."), Date = field(DataFilter)));
+            Editable = false;
+        }
+
+        field(70; DataFilter; Date)
+        {
+            caption = 'DataFilter';
+            FieldClass = FlowFilter;
+        }
     }
 
     keys

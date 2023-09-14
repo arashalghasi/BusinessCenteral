@@ -41,6 +41,11 @@ page 50112 "Arash cool Friends Card"
                     ApplicationArea = All;
                     Caption = 'Role';
                 }
+                field("Balance"; rec.Balance)
+                {
+                    ApplicationArea = All;
+                    Caption = 'Role';
+                }
             }
         }
     }
