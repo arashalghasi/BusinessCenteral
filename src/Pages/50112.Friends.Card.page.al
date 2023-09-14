@@ -46,7 +46,81 @@ page 50112 "Arash cool Friends Card"
                     ApplicationArea = All;
                     Caption = 'Role';
                 }
+                field("Season"; rec.Season)
+                {
+                    ApplicationArea = All;
+                    Caption = 'Season';
+                }
             }
         }
+
+        area(FactBoxes)
+        {
+            part(MyFirstFactBox; SeasonCardArash)
+            {
+                SubPageLink = "No." = field("No.");
+            }
+
+        }
+    }
+
+
+    actions
+    {
+        area(Creation)
+        {
+            action(MyFirstAction)
+            {
+                trigger OnAction()
+                begin
+                    Message('This is an action jajajajajaja!!!!! and the are is Creation');
+                end;
+
+            }
+        }
+
+        area(Navigation)
+        {
+            action(mySecondAction)
+            {
+                trigger OnAction()
+                begin
+                    Message('this is my new action actually the second one and the area is Navigation!');
+                end;
+            }
+        }
+
+        area(Processing)
+        {
+            action(theThirdAction)
+            {
+                trigger OnAction()
+                var
+                    myBankTransaction: Record BankTransactionTableArash;
+                begin
+                    Message(Format(myBankTransaction.Count()));
+                end;
+
+            }
+        }
+
+        area(Reporting)
+        {
+            action(theFourthAction)
+            {
+                trigger OnAction()
+                begin
+                    Message('thsi is the Fourth actionan the area is processing');
+                end;
+
+            }
+        }
+
+
+        area(Promoted)
+        {
+            Description = 'This is a description';
+        }
+
     }
 }

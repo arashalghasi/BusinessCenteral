@@ -52,6 +52,11 @@ page 50110 FriendsArashList
                     ToolTip = 'Balance';
                     DrillDownPageId = BankTransactionCardArash;
                 }
+                field(Season; rec.Season)
+                {
+                    ApplicationArea = All;
+                    ToolTip = 'Season';
+                }
             }
         }
     }
