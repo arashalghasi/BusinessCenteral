@@ -97,10 +97,13 @@ page 50112 "Arash cool Friends Card"
                 trigger OnAction()
                 var
                     myBankTransaction: Record BankTransactionTableArash;
+                    mycodeUnit: CodeUnit FirstTryCodeUnitArash;
                 begin
+                    myBankTransaction.Reset();
+                    myBankTransaction.SetFilter(Sender, rec."No.");
                     Message(Format(myBankTransaction.Count()));
+                    mycodeUnit.BankTransactionCounter();
                 end;
-
             }
         }
 
