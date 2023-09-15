@@ -70,4 +70,9 @@ table 50110 "FriendsArash"
             Clustered = true;
         }
     }
+
+    trigger OnInsert()
+    begin
+        Message('The Friend Inserted successfully');
+    end;
 }

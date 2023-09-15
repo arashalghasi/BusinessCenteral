@@ -94,11 +94,40 @@ page 50112 "Arash cool Friends Card"
         {
             action(theThirdAction)
             {
+                ApplicationArea = All;
                 trigger OnAction()
                 var
                     mycodeUnit: CodeUnit FirstTryCodeUnitArash;
                 begin
                     Message(Format(mycodeUnit.BankTransactionCounter(rec."No.")));
+                end;
+            }
+
+            action(ShowTotalAmount)
+            {
+                ApplicationArea = All;
+                trigger OnAction()
+                var
+                    myFriend: Record FriendsArash;
+                begin
+                    myFriend.Get('2');
+                    myFriend.CalcFields(Balance);
+                    Message('This client has: ' + Format(myFriend.Balance) + ' euros');
+                end;
+            }
+
+            action(ShowAllNames)
+            {
+                ApplicationArea = all;
+                trigger OnAction()
+                var
+                    myFriend: Record FriendsArash;
+                begin
+                    myFriend.FindFirst();
+                    repeat
+                        Message(myFriend.Name);
+                    until
+                    myFriend.Next = 0;
                 end;
             }
         }
