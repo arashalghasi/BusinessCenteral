@@ -14,6 +14,11 @@ xmlport 50110 FriendsArash
             tableelement(Friend; FriendsArash)
             {
                 XmlName = 'Friend';
+
+                fieldattribute(No; Friend."No.")
+                {
+
+                }
                 fieldattribute(Name; Friend.Name)
                 {
 
