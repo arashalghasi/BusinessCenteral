@@ -5,8 +5,14 @@ codeunit 50110 FirstTryCodeUnitArash
 
     end;
 
-    procedure BankTransactionCounter()
+    procedure BankTransactionCounter(friendCode: Code[20]): Integer
+    var
+        myBankTransactions: Record BankTransactionTableArash;
+        myResult: Integer;
     begin
-        Message('The message from the code unit . !!!!!!!!!!');
+        myBankTransactions.Reset();
+        myBankTransactions.SetFilter(Sender, friendCode);
+        myResult := myBankTransactions.Count();
+        exit(myResult)
     end;
 }
