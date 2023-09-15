@@ -59,5 +59,34 @@ page 50110 FriendsArashList
                 }
             }
         }
+
+
+    }
+
+    actions
+    {
+        area(Reporting)
+        {
+            action("The XML Report")
+            {
+                ApplicationArea = All;
+                trigger OnAction()
+                var
+                    myXML: XmlPort FriendsArash;
+                    OutStr: OutStream;
+                    InStr: InStream;
+                    TempBlob: Codeunit "Temp Blob";
+                    FileManagement: Codeunit "File Management";
+                    FileName: Text;
+                begin
+                    FileName := 'ExportFriends.xml';
+                    TempBlob.CreateOutStream(OutStr);
+                    myXML.SetDestination(OutStr);
+                    myXML.Export();
+                    TempBlob.CreateInStream(InStr);
+                    File.DownloadFromStream(InStr, FileName, '', FileManagement.GetToFilterText('', FileName), FileName);
+                end;
+            }
+        }
     }
 }

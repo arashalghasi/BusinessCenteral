@@ -24,6 +24,10 @@ table 50110 "FriendsArash"
         {
             DataClassification = CustomerContent;
             caption = 'Surname';
+            trigger OnValidate()
+            begin
+                Message('the message is now  %1  more long!', StrLen(rec.Surname));
+            end;
         }
 
         field(30; "Birthday"; Date)
@@ -75,4 +79,18 @@ table 50110 "FriendsArash"
     begin
         Message('The Friend Inserted successfully');
     end;
+
+
+    // trigger OnDelete()
+    // var
+    //     response: Boolean;
+    // begin
+    //     response := Confirm('Are you sure want to delete the record?', true, 1);
+    //     if (response) then begin
+    //         Message('The record deleted successfully');
+    //     end else begin
+    //         exit;
+    //     end;
+    // end;
+
 }
