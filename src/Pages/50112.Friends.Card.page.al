@@ -52,6 +52,11 @@ page 50112 "Arash cool Friends Card"
                     Caption = 'Season';
                 }
             }
+
+            part("The Owner's Pets "; PetsSubFormArash)
+            {
+                SubPageLink = Owner = field("No.");
+            }
         }
 
         area(FactBoxes)

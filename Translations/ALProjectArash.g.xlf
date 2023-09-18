@@ -433,6 +433,41 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page PetListPageArash - Control OwnerNameSurname - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 4203352291 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pets SubForm Arash</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PetsSubFormArash - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4203352291 - Control 3558390861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Age</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PetsSubFormArash - Control Age - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4203352291 - Control 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PetsSubFormArash - Control ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4203352291 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PetsSubFormArash - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4203352291 - Control 3552983923 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Owner</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PetsSubFormArash - Control Owner - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4203352291 - Control 2928780895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Owner Name and Surname</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PetsSubFormArash - Control OwnerNameSurname - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4203352291 - Control 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PetsSubFormArash - Control Type - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1273043733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Region List Arash</source>
           <note from="Developer" annotates="general" priority="2"></note>
