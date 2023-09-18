@@ -1,0 +1,5 @@
+
+{
+  // This is the authorization key for all back-end communication. DO NOT MODIFY OR DELETE THIS VALUE!
+  "authKey": "qRfUFQGl8MNxbmTiV0e9Dsp2vvXKAhsS3VPPxcNAYVE="
+}
