@@ -23,13 +23,21 @@ table 50114 PetsListArash
         field(30; Age; Text[20])
         {
             DataClassification = ToBeClassified;
-            Caption = 'Type';
+            Caption = 'Age';
         }
         field(40; Owner; Code[5])
         {
             DataClassification = ToBeClassified;
             Caption = 'Owner';
             TableRelation = FriendsArash."No.";
+        }
+        field(50; OwnerNameSurname; Text[50])
+        {
+            FieldClass = FlowField;
+            Caption = 'Owner Name and Surname';
+            TableRelation = FriendsArash."No.";
+            CalcFormula = lookup(FriendsArash.Name where("No." = field(Owner)));
+            Editable = false;
         }
     }
 

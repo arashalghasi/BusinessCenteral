@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="ALProjectArash">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2528281535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Transaction Table</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BankTransactionTableArash - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2528281535 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BankTransactionTableArash - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2528281535 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BankTransactionTableArash - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2528281535 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BankTransactionTableArash - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2528281535 - Field 4045262235 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reciever</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BankTransactionTableArash - Field Reciever - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2528281535 - Field 3460611877 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The subject of the transaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BankTransactionTableArash - Field Sender - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1459273253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CapArash</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CapArash - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1459273253 - Field 1159584054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cap</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CapArash - Field Cap - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1459273253 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CapArash - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1459273253 - Field 2241665020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Region</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CapArash - Field Region - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4179347956 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>FriendsArash</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FriendsArash - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4179347956 - Field 25700210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FriendsArash - Field Balance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4179347956 - Field 581995851 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Birth date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FriendsArash - Field Birthday - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4179347956 - Field 1159584054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cap</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FriendsArash - Field Cap - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4179347956 - Field 4154654060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DataFilter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FriendsArash - Field DataFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4179347956 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FriendsArash - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4179347956 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FriendsArash - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4179347956 - Field 2339353424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Role</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FriendsArash - Field Role - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4179347956 - Field 2279821455 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Season</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FriendsArash - Field Season - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4179347956 - Field 1956934725 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Surname</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table FriendsArash - Field Surname - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3181713291 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pets List Arash</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PetsListArash - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3181713291 - Field 3558390861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Age</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PetsListArash - Field Age - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3181713291 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PetsListArash - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3181713291 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PetsListArash - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3181713291 - Field 3552983923 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Owner</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PetsListArash - Field Owner - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3181713291 - Field 2928780895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Owner Name and Surname</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PetsListArash - Field OwnerNameSurname - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3181713291 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PetsListArash - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1571500534 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Regions Arash</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RegionsArash - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1571500534 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Region Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RegionsArash - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1571500534 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Region Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table RegionsArash - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1953318989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Arash cool Friends Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arash cool Friends Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1953318989 - Control 25700210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Role</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arash cool Friends Card - Control Balance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1953318989 - Control 581995851 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Birthday</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arash cool Friends Card - Control Birthday - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1953318989 - Control 1159584054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cap</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arash cool Friends Card - Control Cap - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1953318989 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arash cool Friends Card - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1953318989 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arash cool Friends Card - Control No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1953318989 - Control 2339353424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Role</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arash cool Friends Card - Control Role - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1953318989 - Control 2279821455 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Season</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arash cool Friends Card - Control Season - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1953318989 - Control 1956934725 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Surname</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Arash cool Friends Card - Control Surname - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3621846961 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Transaction Card Arash</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BankTransactionCardArash - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3621846961 - Control 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BankTransactionCardArash - Control Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3621846961 - Control 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BankTransactionCardArash - Control Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3621846961 - Control 3460611877 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The subject of the transaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BankTransactionCardArash - Control Sender - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1570298317 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Transactions List Arash</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BankTransactionsPageArash - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1570298317 - Control 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BankTransactionsPageArash - Control Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1570298317 - Control 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BankTransactionsPageArash - Control Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1570298317 - Control 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BankTransactionsPageArash - Control ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1570298317 - Control 3460611877 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The subject of the transaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BankTransactionsPageArash - Control Sender - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3719164587 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cap List Arash</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cap List Arash - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3719164587 - Control 1159584054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cap</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cap List Arash - Control Cap - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3719164587 - Control 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>city</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cap List Arash - Control City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3719164587 - Control 2241665020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Region</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cap List Arash - Control Region - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1726490699 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cap List Arash</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CapListArash - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1726490699 - Control 1159584054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cap</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CapListArash - Control Cap - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1726490699 - Control 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CapListArash - Control City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1726490699 - Control 2241665020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Region</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CapListArash - Control Region - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1016647326 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Friends Arash List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FriendsArashList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1016647326 - Control 25700210 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FriendsArashList - Control Balance - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1016647326 - Control 581995851 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Birthday</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FriendsArashList - Control Birthday - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1016647326 - Control 1159584054 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Birthday</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FriendsArashList - Control Cap - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1016647326 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FriendsArashList - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1016647326 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FriendsArashList - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1016647326 - Control 2339353424 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Role</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FriendsArashList - Control Role - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1016647326 - Control 2279821455 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Season</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FriendsArashList - Control Season - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1016647326 - Control 388051778 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Surename</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FriendsArashList - Control Surename - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 924490040 - Control 25700210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InsertFriendArash - Control Balance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 924490040 - Control 581995851 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Birthday</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InsertFriendArash - Control Birthday - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 924490040 - Control 1159584054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cap</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InsertFriendArash - Control Cap - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 924490040 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InsertFriendArash - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 924490040 - Control 949215307 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Friend No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InsertFriendArash - Control No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 924490040 - Control 2339353424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Role</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InsertFriendArash - Control Role - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 924490040 - Control 1956934725 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Surname</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page InsertFriendArash - Control Surname - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1236436322 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pet List Card Arash</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PetListCardArash - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1236436322 - Control 3558390861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Age</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PetListCardArash - Control Age - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1236436322 - Control 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PetListCardArash - Control ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1236436322 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PetListCardArash - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1236436322 - Control 3552983923 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Owner</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PetListCardArash - Control Owner - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1236436322 - Control 2928780895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Owners Name and Surname</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PetListCardArash - Control OwnerNameSurname - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1236436322 - Control 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PetListCardArash - Control Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3304574995 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pet List Page Arash</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PetListPageArash - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3304574995 - Control 3558390861 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Age</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PetListPageArash - Control Age - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3304574995 - Control 118284714 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PetListPageArash - Control Animal Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3304574995 - Control 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PetListPageArash - Control ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3304574995 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PetListPageArash - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3304574995 - Control 3552983923 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Owner</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PetListPageArash - Control Owner - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3304574995 - Control 2928780895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Owners Name and Surname</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PetListPageArash - Control OwnerNameSurname - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1273043733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Region List Arash</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RegionListArash - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1273043733 - Control 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RegionListArash - Control Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1273043733 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page RegionListArash - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 358728538 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Regions Card Arash</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Regions Card Arash - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 358728538 - Control 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Region Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Regions Card Arash - Control Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 358728538 - Control 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Region Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Regions Card Arash - Control Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3870911806 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Friends List report Arash</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report FriendsListArash - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 4179347956 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>XMLFORM Friends Arash</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort FriendsArash - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2333538111 - Field 1477693348 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Instagram</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension CustomerExtension - Field Instagram - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
