@@ -11,6 +11,34 @@
       <rd:DataSourceID>2d6e5f85-3b8b-4ffe-915e-6a1cd2103915</rd:DataSourceID>
     </DataSource>
   </DataSources>
+  <DataSets>
+    <DataSet Name="DataSet_Result">
+      <Query>
+        <DataSourceName>DataSource</DataSourceName>
+        <CommandText />
+      </Query>
+      <Fields>
+        <Field Name="FrinedsName">
+          <DataField>FrinedsName</DataField>
+        </Field>
+        <Field Name="FriendsSurname">
+          <DataField>FriendsSurname</DataField>
+        </Field>
+        <Field Name="FriendsBalance">
+          <DataField>FriendsBalance</DataField>
+        </Field>
+        <Field Name="FriendsBalanceFormat">
+          <DataField>FriendsBalanceFormat</DataField>
+        </Field>
+        <Field Name="FriendsBirthday">
+          <DataField>FriendsBirthday</DataField>
+        </Field>
+        <Field Name="FriendsRole">
+          <DataField>FriendsRole</DataField>
+        </Field>
+      </Fields>
+    </DataSet>
+  </DataSets>
   <ReportSections>
     <ReportSection>
       <Body>
@@ -143,11 +171,52 @@
             </Style>
           </Textbox>
         </ReportItems>
-        <Height>28.7cm</Height>
+        <Height>24cm</Height>
         <Style />
       </Body>
       <Width>20cm</Width>
       <Page>
+        <PageFooter>
+          <Height>2.54cm</Height>
+          <PrintOnFirstPage>true</PrintOnFirstPage>
+          <PrintOnLastPage>true</PrintOnLastPage>
+          <ReportItems>
+            <Textbox Name="FriendsBalance1">
+              <CanGrow>true</CanGrow>
+              <KeepTogether>true</KeepTogether>
+              <Paragraphs>
+                <Paragraph>
+                  <TextRuns>
+                    <TextRun>
+                      <Value>=First(Fields!FriendsBalance.Value, "DataSet_Result")</Value>
+                      <Style />
+                    </TextRun>
+                  </TextRuns>
+                  <Style />
+                </Paragraph>
+              </Paragraphs>
+              <rd:DefaultName>FriendsBalance1</rd:DefaultName>
+              <Top>1.17737cm</Top>
+              <Left>9.87637cm</Left>
+              <Height>0.6cm</Height>
+              <Width>2.5cm</Width>
+              <Style>
+                <Border>
+                  <Style>None</Style>
+                </Border>
+                <PaddingLeft>2pt</PaddingLeft>
+                <PaddingRight>2pt</PaddingRight>
+                <PaddingTop>2pt</PaddingTop>
+                <PaddingBottom>2pt</PaddingBottom>
+              </Style>
+            </Textbox>
+          </ReportItems>
+          <Style>
+            <Border>
+              <Style>None</Style>
+            </Border>
+          </Style>
+        </PageFooter>
         <PageHeight>29.7cm</PageHeight>
         <PageWidth>21cm</PageWidth>
         <LeftMargin>0.635cm</LeftMargin>
@@ -159,6 +228,12 @@
       </Page>
     </ReportSection>
   </ReportSections>
+  <ReportParametersLayout>
+    <GridLayoutDefinition>
+      <NumberOfColumns>4</NumberOfColumns>
+      <NumberOfRows>2</NumberOfRows>
+    </GridLayoutDefinition>
+  </ReportParametersLayout>
   <Code>Public Function BlankZero(ByVal Value As Decimal)
     if Value = 0 then
         Return ""
@@ -198,32 +273,4 @@ End Function
   <ConsumeContainerWhitespace>true</ConsumeContainerWhitespace>
   <rd:ReportUnitType>Cm</rd:ReportUnitType>
   <rd:ReportID>0eeb6585-38ae-40f1-885b-8d50088d51b4</rd:ReportID>
-  <DataSets>
-    <DataSet Name="DataSet_Result">
-      <Fields>
-        <Field Name="FrinedsName">
-          <DataField>FrinedsName</DataField>
-        </Field>
-        <Field Name="FriendsSurname">
-          <DataField>FriendsSurname</DataField>
-        </Field>
-        <Field Name="FriendsBalance">
-          <DataField>FriendsBalance</DataField>
-        </Field>
-        <Field Name="FriendsBalanceFormat">
-          <DataField>FriendsBalanceFormat</DataField>
-        </Field>
-        <Field Name="FriendsBirthday">
-          <DataField>FriendsBirthday</DataField>
-        </Field>
-        <Field Name="FriendsRole">
-          <DataField>FriendsRole</DataField>
-        </Field>
-      </Fields>
-      <Query>
-        <DataSourceName>DataSource</DataSourceName>
-        <CommandText />
-      </Query>
-    </DataSet>
-  </DataSets>
 </Report>
