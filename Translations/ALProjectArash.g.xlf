@@ -53,6 +53,21 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table CapArash - Field Region - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 4151661683 - Field 3641927271 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EnemyListArash - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4151661683 - Field 199435562 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EnemyListArash - Field ID Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4151661683 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table EnemyListArash - Field Name - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 4179347956 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>FriendsArash</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -327,6 +342,11 @@
           <source>Surename</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page FriendsArashList - Control Surename - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1016647326 - Action 3981194037 - Method 1377591017 - NamedType 3242194417" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 diviso %2 fa %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FriendsArashList - Action ProvaDebug - Method OnAction - NamedType FinalMessage</note>
         </trans-unit>
         <trans-unit id="Page 924490040 - Control 25700210 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Balance</source>

@@ -8,8 +8,10 @@ report 50110 FriendsListArash
 
     dataset
     {
-        dataitem(DataItemName; FriendsArash)
+        dataitem(Frineds; FriendsArash)
         {
+            DataItemTableView = sorting("Name");
+
             column(FrinedsName; Name)
             {
 
